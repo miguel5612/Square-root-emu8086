@@ -7,3 +7,5 @@ Miguel Angel Califa Urquiza
 [gmail](miguelangel5612@gmail.com)
 [website](http://onmotica.com)
 [linkedin](https://www.linkedin.com/in/miguel-angel-califa-urquiza-7643bb119/)
+# Aditional information:
+Tested on emu8086 version 4.08
